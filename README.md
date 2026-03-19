@@ -10,6 +10,7 @@ Backend Engineer (8 yrs) with strong experience in scalable systems and AWS, now
 - Cloud & DevOps: AWS (compute, storage, networking), CI/CD, system scalability
 - Retrieval-Augmented Generation (RAG): hybrid search, evaluation, grounded responses
 - Multi-agent workflows: LangGraph, CrewAI
+- Workflow automation: n8n (automation pipelines, integrations)
 - Data systems: SQL/NoSQL, vector databases, caching layers
 
 ---
@@ -52,6 +53,16 @@ Foundational RAG system for document-based Q&A
 
 ---
 
+## 🔄 Workflow Automation (n8n)
+
+- Built and experimented with **n8n workflows** for automating multi-step processes  
+- Currently developing an **AI-assisted job search & application workflow**:
+  - Automates job discovery
+  - Filters relevant roles based on preferences
+  - Assists in generating tailored applications  
+
+---
+
 ## 🏗️ Backend & Cloud Experience
 
 - Designed and built scalable backend systems and APIs  
@@ -77,6 +88,7 @@ Foundational RAG system for document-based Q&A
 - Agent orchestration patterns (LangGraph, CrewAI)  
 - Memory systems for conversational AI  
 - End-to-end AI system design with observability  
+- Workflow automation using n8n + AI integrations  
 
 ---
 
